@@ -1,12 +1,13 @@
 ---
-title: My fictional future research
-subtitle: A vision for my research path
+title: Get started with Blogging
+subtitle: A template for a Blog.
 description: |
-  This is a blog about a fictional PhD topic that I made up for a course at ETH Zürich.
+  This is a template from which the YAML metadata can be copied for a new blog 
+  post.
 author: "Sebastian Camilo Loos"
 editor: visual
 date: today
-draft: false
+draft: true
 bibliography: "../../references.bib"
 ---
 
