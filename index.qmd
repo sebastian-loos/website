@@ -13,6 +13,10 @@ about:
     - icon: oricd
       text: ORCID iD
       href: https://orcid.org/0000-0002-8830-1734
+      
+format:
+  html: 
+    toc: false
 ---
 
 Sebastian Camilo Loos is the Coach of the sub 20 and sub 23 team of the Volleyballclub Wädivolley. When not in the gym, Sebastian enjoys spending time...
