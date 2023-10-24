@@ -1,0 +1,22 @@
+---
+title: Get started with Blogging
+subtitle: A template for a Blog.
+description: |
+  This is a template from which the YAML metadata can be copied for a new blog 
+  post.
+author: "Sebastian Camilo Loos"
+editor: visual
+date: today
+draft: false
+bibliography: "../../references.bib"
+---
+
+In today's rapidly evolving educational landscape, the role of learners has shifted from passive observers to active, if not proactive, participants. This change in perspective has necessitated a transformation in the ways we impart knowledge and skills [@daniela2020new].
+
+Emerging technologies, such as virtual reality (VR) and mixed reality (XR), hold immense potential in reshaping learning environments and facilitating effective training, transcending the limitations of traditional methods. A crucial dimension of this investigation lies in exploring the applicability of mixed reality in training programs,
+particularly in resource-constrained settings.
+
+The focus lies on severe e-waste issues that ask for innovative, cost-effective, and sustainable training methods, given the environmental and health concerns associated with informal e-waste recycling practices [@forti2020global]. Analyses on the have underscored the effectiveness of XR technologies in training contexts, especially when traditional methods prove impractical due to
+factors like danger and cost [@kaplan2021effects; @xie2021review].
+
+The convergence of these insights underlines the pressing need to assess and harness mixed reality's potential for training in resource-constrained settings, thereby addressing critical skill gaps, promoting sustainable practices, and facilitating a brighter future for learners in resource-constrained settings.

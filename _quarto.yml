@@ -4,10 +4,13 @@ project:
 
 website:
   title: "Sebastian Camilo Loos"
+  site-url: "https://sebastian-loos.github.io/website/"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: posts/
+        text: Blog
 
 format:
   html:

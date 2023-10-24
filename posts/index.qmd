@@ -1,0 +1,12 @@
+---
+title: Reasearch Blog
+subtitle: Here I share information about my project
+listing:
+  contents: "*/index.qmd"
+  type: default
+  fields: [image, date, title, author, description, reading-time]
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+search: false
+---
