@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website-template",
+    "title": "Sebastian Camilo Loos",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Sebastian Camilo Loos is the Coach of the sub 20 and sub 23 team of the Volleyballclub Wädivolley. When not in the gym, Sebastian enjoys spending time…"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sebastian Camilo Loos",
+    "section": "Education",
+    "text": "Education\nFederal Institute of Technology Zürich (ETH) | Zürich, CH MSc Mechanical Engineering | Sept 2023 - present\nFederal Institute of Technology Zürich (ETH) | Zürich, CH BSc Mechanical Engineering | Sept 2018 - June 2023\nKantonsschule Enge | Zürich, CH Matura | Sept 2014 - June 2017"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Sebastian Camilo Loos",
+    "section": "Experience",
+    "text": "Experience\nGlobal Health Engineering (ETH) | Research Assistant | May 2023 - September 2023\nGlobal Health Engineering (ETH) | Research Assistant | October 2022 - March 2022"
   }
 ]

@@ -1,11 +1,35 @@
 ---
-title: "website-template"
+title: "Sebastian Camilo Loos"
+about:
+  template: jolla
+  image: profile.JPG
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/sebastian-loos/
+    - icon: github
+      text: Github
+      href: https://github.com/sebastian-loos
+    - icon: oricd
+      text: ORCID iD
+      href: https://orcid.org/0000-0002-8830-1734
 ---
 
-This is a Quarto website.
+Sebastian Camilo Loos is the Coach of the sub 20 and sub 23 team of the Volleyballclub Wädivolley. When not in the gym, Sebastian enjoys spending time...
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+Federal Institute of Technology Zürich (ETH) | Zürich, CH
+MSc Mechanical Engineering | Sept 2023 - present
+
+Federal Institute of Technology Zürich (ETH) | Zürich, CH
+BSc Mechanical Engineering | Sept 2018 - June 2023
+
+Kantonsschule Enge | Zürich, CH
+Matura | Sept 2014 - June 2017
+
+## Experience
+
+Global Health Engineering (ETH) | Research Assistant | May 2023 - September 2023
+
+Global Health Engineering (ETH) | Research Assistant | October 2022 - March 2022
