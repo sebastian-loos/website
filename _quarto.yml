@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "website-template"
+  title: "Sebastian Camilo Loos"
   navbar:
     left:
       - href: index.qmd
@@ -15,5 +16,6 @@ format:
     css: styles.css
     toc: true
 
-
+execute:
+  freeze: auto
 
